@@ -16,7 +16,11 @@
 
 当用户是该 **讨论的创建者** 并且 **有权限进行回复** 时，将依据以下设置判断是否允许重命名：
 
+<img height="256" alt="image" src="https://github.com/user-attachments/assets/fe53130d-1776-4249-9316-db1f2e434f8d" />
+
 若不满足上述条件，则仍遵循其他策略（例如 Tag 策略）的权限设置：
+
+<img height="128" alt="image" src="https://github.com/user-attachments/assets/b2cc62e9-bdd1-4109-af80-d4f7877b3591" />
 
 ## 安装
 
@@ -37,7 +41,7 @@ php flarum cache:clear
 ## 链接
 
 - [Packagist](https://packagist.org/packages/huoxin/allow-own-discussion-rename)
-- [GitHub](https://github.com/huoxin233/allow-own-discussion-rename)
+- [GitHub](https://github.com/huoxin233/flarum-ext-allow-own-discussion-rename)
 - [Discuss](https://discuss.flarum.org/d/38239-allow-own-discussion-rename)
 
 

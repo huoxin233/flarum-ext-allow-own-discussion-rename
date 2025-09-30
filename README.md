@@ -16,7 +16,11 @@ This extension is a temporary workaround for [flarum/framework#3692](https://git
 
 If the user is the **discussion author** and **can reply**. It will follow the permission set here:
 
+<img height="256" alt="image" src="https://github.com/user-attachments/assets/fe53130d-1776-4249-9316-db1f2e434f8d" />
+
 If not it will follow to other policy such as the tag policy:
+
+<img height="128" alt="image" src="https://github.com/user-attachments/assets/b2cc62e9-bdd1-4109-af80-d4f7877b3591" />
 
 ## Installation
 
@@ -37,5 +41,5 @@ php flarum cache:clear
 ## Links
 
 - [Packagist](https://packagist.org/packages/huoxin/allow-own-discussion-rename)
-- [GitHub](https://github.com/huoxin233/allow-own-discussion-rename)
+- [GitHub](https://github.com/huoxin233/flarum-ext-allow-own-discussion-rename)
 - [Discuss](https://discuss.flarum.org/d/38239-allow-own-discussion-rename)
